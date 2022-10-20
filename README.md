@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+THis Version of the project doesn't use AsyncThunk  or simply, use only synchronous operation
 
 ## Available Scripts
 
